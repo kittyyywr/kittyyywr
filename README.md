@@ -15,3 +15,5 @@ ___
  ![html](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/html.png) ![py](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/py.png)
  ![css](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/css.png)![js](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/js.png)
 ![vs](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/visual-studio.png)
+___
+![logo](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/logotr.png)
