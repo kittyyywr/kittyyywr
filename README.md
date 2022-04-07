@@ -11,4 +11,7 @@ ___
        
  :briefcase: ***My stack:***
  
- 
+ ![c#](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/c%23.png)![c++](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/c%2B%2B.png) 
+ ![html](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/html.png) ![py](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/py.png)
+ ![css](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/css.png)![js](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/js.png)
+![vs](https://raw.githubusercontent.com/kittyyywr/kittyyywr/main/shortcut/visual-studio.png)
